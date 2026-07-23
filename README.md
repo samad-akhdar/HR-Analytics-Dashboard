@@ -7,7 +7,7 @@ This project is an interactive HR Analytics Dashboard built in Microsoft Excel t
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.jpg)
+![Dashboard Preview](HR-Analytics-Dashboard.jpg)
 
 ## Dataset
 
